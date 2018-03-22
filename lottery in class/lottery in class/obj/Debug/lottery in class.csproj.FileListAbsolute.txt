@@ -1,0 +1,7 @@
+C:\git\0322\lottery in class\lottery in class\bin\Debug\lottery in class.exe.config
+C:\git\0322\lottery in class\lottery in class\bin\Debug\lottery in class.exe
+C:\git\0322\lottery in class\lottery in class\bin\Debug\lottery in class.pdb
+C:\git\0322\lottery in class\lottery in class\obj\Debug\lottery in class.csprojResolveAssemblyReference.cache
+C:\git\0322\lottery in class\lottery in class\obj\Debug\lottery in class.csproj.CoreCompileInputs.cache
+C:\git\0322\lottery in class\lottery in class\obj\Debug\lottery in class.exe
+C:\git\0322\lottery in class\lottery in class\obj\Debug\lottery in class.pdb
