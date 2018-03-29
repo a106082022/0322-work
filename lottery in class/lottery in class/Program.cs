@@ -20,7 +20,7 @@ namespace lottery_in_class
 
 
             //重新產生
-            while(n<10)
+            while(n<=10)
             { 
 
             //產生6個亂數
@@ -35,9 +35,11 @@ namespace lottery_in_class
                 
             //次數+1
             n = n + 1;
+            
+           
+            } 
             //暫停螢幕
             Console.ReadLine();
-            }
         }
     }
 }
